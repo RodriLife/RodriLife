@@ -35,15 +35,6 @@
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RodriLife&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriLife&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### Let's Connect!
 <p>
   <a href="https://github.com/RodriLife">
