@@ -1,6 +1,6 @@
 
 # Rodrigo León González
-### Software Engineering Student | 
+### Software Engineering Student
 
 **Aspiring Software Developer** - Mérida, MX
 
